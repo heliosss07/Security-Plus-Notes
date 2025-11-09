@@ -20,4 +20,6 @@ All content is paraphrased and summarized based on my own understanding of the c
 4. [Domain 4: Security Operations](./Domain4-Security-Operations/)
 5. [Domain 5: Security Program Management and Oversight](./Domain5-Security-Program-Management-and-Oversight/)
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/dc3583d1-cc99-4038-9b70-ba0110245ab7" />
+
 **POGI MO**
