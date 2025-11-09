@@ -8,7 +8,7 @@ Notes are aligned with **Professor Messer’s YouTube course** and the official 
 ## Purpose
 
 These notes are intended for **private study and review**.  
-All content is paraphrased and summarized based on my own understanding of the concepts.
+All content is paraphrased and summarized based on my own understanding of the concepts and screenshots taken when I am watching the videos.
 
 ---
 
@@ -19,3 +19,5 @@ All content is paraphrased and summarized based on my own understanding of the c
 3. [Domain 3: Security Architecture](./Domain3-Security-Architecture/)
 4. [Domain 4: Security Operations](./Domain4-Security-Operations/)
 5. [Domain 5: Security Program Management and Oversight](./Domain5-Security-Program-Management-and-Oversight/)
+
+# POGI MO
