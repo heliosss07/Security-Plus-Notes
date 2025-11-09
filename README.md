@@ -20,4 +20,4 @@ All content is paraphrased and summarized based on my own understanding of the c
 4. [Domain 4: Security Operations](./Domain4-Security-Operations/)
 5. [Domain 5: Security Program Management and Oversight](./Domain5-Security-Program-Management-and-Oversight/)
 
-### POGI MO
+**POGI MO**
