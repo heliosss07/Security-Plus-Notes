@@ -8,7 +8,7 @@ Notes are aligned with **Professor Messer’s YouTube course** and the official 
 ## Purpose
 
 These notes are intended for **private study and review**.  
-All content is paraphrased and summarized from reputable study materials for educational purposes only.
+All content is paraphrased and summarized based on my own understanding of the concepts.
 
 ---
 
